@@ -2,8 +2,7 @@ spec:
   name: sample-php
   services:
   - environment_slug: php
-    github:
+    git:
       branch: main
-      deploy_on_push: true
-      repo: digitalocean/sample-php
+      repo_clone_url: https://github.com/digitalocean/sample-php.git
     name: sample-php

@@ -1,0 +1,8 @@
+name: sample-php
+services:
+- environment_slug: php
+  github:
+    branch: master
+    deploy_on_push: true
+    repo: digitalocean/sample-php
+  name: sample-php
