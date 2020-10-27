@@ -1,0 +1,8 @@
+spec:
+  name: sample-php
+  services:
+  - environment_slug: php
+    git:
+      branch: main
+      repo_clone_url: https://github.com/digitalocean/sample-php.git
+    name: sample-php
