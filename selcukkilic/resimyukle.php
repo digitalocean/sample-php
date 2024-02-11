@@ -1,4 +1,9 @@
 <?php
+
+if ($_FILES['files']['error'] == 4 || ($_FILES['files']['size'] == 0 && $_FILES['files']['error'] == 0)) // https://stackoverflow.com/a/14458594
+    die("Resim secilmedi.");
+
+
 // Yükleme dizini
 $uploadDir = 'resimler/';
 
