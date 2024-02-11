@@ -1,5 +1,5 @@
-## Getting Started
+## Nedir burası?
 
-We provide a sample app using PHP that you can deploy on App Platform. These steps will get this sample application running for you using App Platform.
+Sorucevap.com da yer alan php betikleri için demo ve örnek kodlar için çalışma alanı.
 
-**Note: Following these steps may result in charges for the use of DigitalOcean services.**
+**Not: Katkı sağlamak, değişiklik önermek, hataları düzeltmek isteyenler, her zaman bize katılabilirsiniz..**
