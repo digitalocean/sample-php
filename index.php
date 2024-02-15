@@ -113,7 +113,6 @@ echo $cow->say($text);
 <div class="col-lg-8 mx-auto p-4 py-md-5">
 <header class="d-flex align-items-center pb-3 mb-5 border-bottom">
 <a href="/" class="d-flex align-items-center text-body-emphasis text-decoration-none">
-  <svg class="bi me-2" width="40" height="32"><use xlink:href="#bootstrap"/></svg>
   <span class="fs-4">Sorucevap.com Php</span>
 </a>
 </header>
@@ -123,7 +122,7 @@ echo $cow->say($text);
 <p class="fs-5 col-md-8">Sorucevap.com da sorulan php ile ilgili sorular icin olusturulan ornek ve demo kodlar sunucusu.</p>
 
 <div class="mb-5">
-  <a href="/docs/5.3/examples/" class="btn btn-primary btn-lg px-4">Sorucevap.com</a>
+  <a href="https://sorucevap.com" class="btn btn-primary btn-lg px-4">Sorucevap.com</a> <a href="https://github.com/KilicSelcuk/sorucevap-php" class="btn btn-primary btn-lg px-4">Github: sorucevap-php</a>
 </div>
 
 <hr class="col-3 col-md-2 mb-5">
