@@ -136,6 +136,10 @@ echo $cow->say($text);
 		<a class="icon-link mb-1" href="https://sorucevap.com/t/php-ile-coklu-resim-secme-ve-yukleme/88" target="_blank">
 		  <svg class="bi" width="16" height="16"><use xlink:href="#arrow-right-circle"/></svg>
 		  PHP ile çoklu Resim Seçme ve Yükleme
+		</a> - 
+		<a class="icon-link mb-1" href="https://phpdemo.sorucevap.com/selcukkilic/resimyukle/" target="_blank">
+		  <svg class="bi" width="16" height="16"><use xlink:href="#arrow-right-circle"/></svg>
+		  Demo
 		</a>
 	  </li>
 	</ul>
