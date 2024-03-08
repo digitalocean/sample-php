@@ -146,6 +146,25 @@ echo $cow->say($text);
   </div>
 
 </div>
+
+<hr class="col-3 col-md-2 mb-5">
+
+<div id='discourse-comments'></div>
+<meta name='discourse-username' content='selcukkilic'>
+
+<script type="text/javascript">
+  DiscourseEmbed = {
+    discourseUrl: 'https://sorucevap.com/',
+    discourseEmbedUrl: 'https://phpdemo.sorucevap.com/',
+    // className: 'CLASS_NAME',
+  };
+
+  (function() {
+    var d = document.createElement('script'); d.type = 'text/javascript'; d.async = true;
+    d.src = DiscourseEmbed.discourseUrl + 'javascripts/embed.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(d);
+  })();
+</script>
 </main>
 <footer class="pt-5 my-5 text-body-secondary border-top">
 Sorucevap.com &middot; &copy; 2024
