@@ -1,0 +1,19 @@
+.upload-container {
+    margin-top: 20px;
+}
+#preview-container {
+    margin-top: 20px;
+}
+.preview-image {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+#upload-progress {
+    margin-top: 20px;
+}
+#upload-results {
+    margin-top: 20px;
+}

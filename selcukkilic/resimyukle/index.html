@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resim Yükleme Sistemi</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center">Resim Yükleme Sistemi</h1>
+        <p><i>Sorucevap konusu: <a href="https://sorucevap.com/t/php-ile-coklu-resim-secme-ve-yukleme/88">https://sorucevap.com/t/php-ile-coklu-resim-secme-ve-yukleme/88</a></i></p>
+        <div class="upload-container">
+            <input type="file" id="file-input" multiple>
+            <button id="upload-button" class="btn btn-primary">Yükle</button>
+        </div>
+        <div id="preview-container"></div>
+        <div id="upload-progress"></div>
+        <div id="upload-results"></div>
+    </div>
+    <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
