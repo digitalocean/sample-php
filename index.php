@@ -72,7 +72,7 @@ if ($filecount>0) {
         </div>
 
         <div class="col-md-6">
-            <h1>Delete Cache</h1>
+            <h1>Delete Cache Files</h1>
             <form action="deletecache.php" method="post">
                 <button type="submit" class="btn btn-danger">Delete Flights, Routes and Airports Cache Files</button>
             </form>
